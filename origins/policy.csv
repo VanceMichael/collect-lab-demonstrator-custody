@@ -1,0 +1,6 @@
+unit,location,purpose,permit
+D17,东院,review,yes
+D17,西院,review,yes
+D18,西院,public,yes
+K9,西院,review,yes
+K9,西院,public,no
